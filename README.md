@@ -1,7 +1,7 @@
 spring-ex01
 ===========
 
-This is an example of Spring Java configuration files repalacing the standard Spring MVC template created by STS in Eclipse.
+This is an example of Spring Java configuration files replacing the standard Spring MVC template XML files created by STS in Eclipse.
 
 This example has been validated with the following environment:
 
